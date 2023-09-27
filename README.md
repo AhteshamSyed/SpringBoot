@@ -1,2 +1,2 @@
-# SpringBootSalesforceAndSqlIntegrator
+# S
 Uses Spring Boot
